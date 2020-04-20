@@ -66,10 +66,10 @@
       
 
         <button v-on:click="updateUser(user)">update user</button>
-        <p>
+        <h2>
 
           saga & story of chikondiman
-        </p>
+        </h2>
       </div>
 
       <hr />
